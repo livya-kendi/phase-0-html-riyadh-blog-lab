@@ -43,6 +43,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: cornflowerblue;
 }
 
 img {
@@ -53,15 +54,18 @@ img {
 
 p {
   font-size: 1em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: navy;
 }
 
 a {
-  color: black;
+  color: blueviolet;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: chocolate;
 }
 
 @media only screen and (max-width: 1042px) {
